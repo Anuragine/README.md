@@ -8,11 +8,11 @@ I’m passionate about building systems where **AI meets healthcare**, combining
 
 ## ** About Me**
 
-* 🎓AI & Data Science + Medical Engineering student
-* 🤖Interested in **biomedical AI, emotion recognition, healthcare automation, and intelligent sensors**
+* AI & Data Science + Medical Engineering student
+* Interested in **biomedical AI, emotion recognition, healthcare automation, and intelligent sensors**
 * Love working on projects involving **signal processing, analog + ML hybrid systems, and predictive models**
 * Always exploring how technology can improve healthcare outcomes
-* 🛠️ Learning:
+* Learning:
 
   * Machine Learning & Deep Learning
   * Python, MATLAB
